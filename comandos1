@@ -17,11 +17,11 @@ cd ..
 cd ..
 mkdir artes-culinarias
 cd artes-culinarias
-touch lista.doc
+touch lista.txt
 cd ..
 mkdir peluqueria
 cd peluqueria
-touch lista.doc
+touch lista.txt
 cd ..
 mkdir programacion
 cd programacion
